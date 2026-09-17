@@ -8,13 +8,11 @@ import {
   Calendar,
   Settings,
   Menu,
-  X,
   Heart,
   LogOut,
   Bell,
   ExternalLink,
   ChevronDown,
-  Plus,
   Search,
   HelpCircle,
 } from 'lucide-react';
